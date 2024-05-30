@@ -1,0 +1,37 @@
+  "keywords": [
+    "slider",
+    "react slider",
+    "reactslider",
+    "carousel",
+    "react carousel",
+    "react-carousel",
+    "react-slider"
+  ],
+  
+  
+  
+  {
+  "name": "dx-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+
+  "author": "Muneza Dixon",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
+    "@babel/preset-react": "^7.24.6",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^7.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
