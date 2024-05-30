@@ -1,6 +1,6 @@
 {
   "name": "dx-slider",
-  "version": "1.2.8",
+  "version": "1.2.7",
   "description": "A simple react React Slider Component",
   "main": "dist/index.js",
   "repository": {
